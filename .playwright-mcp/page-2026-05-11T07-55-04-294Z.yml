@@ -1,0 +1,1207 @@
+- generic [active] [ref=e1]:
+  - link "欢迎进入 首页,盲人用户进入智能盲道请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=e4]:
+    - generic [ref=e9]:
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - generic [ref=e18]:
+            - generic [ref=e19]: 挑好货
+            - generic [ref=e20]: 
+          - generic [ref=e23]:
+            - generic [ref=e25] [cursor=pointer]: 搜 索
+            - textbox "找货源·找定制·找服务" [ref=e27]
+        - generic [ref=e29]:
+          - generic [ref=e30] [cursor=pointer]:
+            - button "Choose File" [ref=e31]
+            - generic [ref=e33]: 以图搜款
+          - generic:
+            - generic: 支持如下图搜同款比价方式
+            - generic [ref=e34]: 1. 点击从本地上传图片
+            - generic [ref=e35]: 2. ctrl + v 粘贴图片或图片链接快速图搜
+            - generic [ref=e36]:
+              - text: 3. 安装1688插件，全网截图比价
+              - link "去安装" [ref=e37] [cursor=pointer]:
+                - /url: https://air.1688.com/kapp/assets-group/haobangshou/PluginInstall
+      - generic [ref=e39]:
+        - generic [ref=e43] [cursor=pointer]:
+          - generic [ref=e45]: 
+          - generic [ref=e47]:
+            - text: 下载插件
+            - generic [ref=e48]: 下载插件
+        - link " 我的订单 我的订单" [ref=e52] [cursor=pointer]:
+          - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.topmenu.dmyorder&tradeStatus=waitbuyerreceive
+          - generic [ref=e54]: 
+          - generic [ref=e56]:
+            - text: 我的订单
+            - generic [ref=e57]: 我的订单
+        - link " 采购车 采购车" [ref=e61] [cursor=pointer]:
+          - /url: https://cart.1688.com/cart.htm?spm=a2615.2177701.topmenu.dcart
+          - generic [ref=e63]: 
+          - generic [ref=e65]:
+            - text: 采购车
+            - generic [ref=e66]: 采购车
+        - generic [ref=e68]:
+          - link " 消息 消息" [ref=e70] [cursor=pointer]:
+            - /url: https://air.1688.com/app/ocms-fusion-components-1688/def_cbu_web_im/index.html?spm=a2615.2177701.topmenu.dmymessage
+            - generic [ref=e72]: 
+            - generic [ref=e74]:
+              - text: 消息
+              - generic [ref=e75]: 消息
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - link "旺旺消息 旺旺消息":
+                      - /url: https://air.1688.com/app/ocms-fusion-components-1688/def_cbu_web_im/index.html?spm=a2615.2177701.topmenu.dmymessage_popup_dwangwangxiaoxi
+                      - generic:
+                        - text: 旺旺消息
+                        - generic: 旺旺消息
+                  - generic:
+                    - link "系统消息 系统消息":
+                      - /url: https://systemjs.1688.com/krump/schema/2152.html?spm=a2615.2177701.topmenu.dmymessage_popup_dxitongxiaoxi
+                      - generic:
+                        - text: 系统消息
+                        - generic: 系统消息
+        - generic [ref=e77]:
+          - link " 开店 官方服务 官方服务" [ref=e79] [cursor=pointer]:
+            - /url: https://work.1688.com/home/seller.htm?spm=a2615.2177701.topmenu.dsellercenterentry
+            - generic [ref=e80]:
+              - generic [ref=e81]: 
+              - generic [ref=e82]: 开店
+            - generic [ref=e84]:
+              - text: 官方服务
+              - generic [ref=e85]: 官方服务
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - link "商家工作台 商家工作台":
+                      - /url: https://work.1688.com/home/seller.htm?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dsellercenter
+                      - generic:
+                        - text: 商家工作台
+                        - generic: 商家工作台
+                    - generic:
+                      - link "已卖出货品 已卖出货品":
+                        - /url: https://work.1688.com/app/saleList.htm?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dsellercenter_ymchw
+                        - generic:
+                          - text: 已卖出货品
+                          - generic: 已卖出货品
+                      - link "发布供应产品 发布供应产品":
+                        - /url: https://offer-new.1688.com/select.htm?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dsellercenter_fbgysp
+                        - generic:
+                          - text: 发布供应产品
+                          - generic: 发布供应产品
+                      - link "管理供应产品 管理供应产品":
+                        - /url: https://work.1688.com/app/orderManage.htm?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dsellercenter_glygysp
+                        - generic:
+                          - text: 管理供应产品
+                          - generic: 管理供应产品
+                      - link "管理旺铺 管理旺铺":
+                        - /url: https://apps.1688.com/page/freewinportopen.htm?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dsellercenter_glwp
+                        - generic:
+                          - text: 管理旺铺
+                          - generic: 管理旺铺
+                      - link "分销精选货源 分销精选货源":
+                        - /url: https://sale.1688.com/sale/distribution/d/dztvo8i2.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dsellercenter_fxjhy&__pageId__=235433&cms_id=235433&wh_pha=true
+                        - generic:
+                          - text: 分销精选货源
+                          - generic: 分销精选货源
+                  - generic:
+                    - link "诚信通 诚信通":
+                      - /url: https://cxt.1688.com/?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcxt
+                      - generic:
+                        - text: 诚信通
+                        - generic: 诚信通
+                    - generic:
+                      - link "新商入驻 新商入驻":
+                        - /url: https://cxt.1688.com/tp_service.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcxt_ljkd
+                        - generic:
+                          - text: 新商入驻
+                          - generic: 新商入驻
+                      - link "我要续约 我要续约":
+                        - /url: https://cxt.1688.com/tp_service.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcxt_lhyxf
+                        - generic:
+                          - text: 我要续约
+                          - generic: 我要续约
+                      - link "我的诚信通 我的诚信通":
+                        - /url: https://cxt.1688.com/myTrustpass.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcxt_my&activityMenu=renew
+                        - generic:
+                          - text: 我的诚信通
+                          - generic: 我的诚信通
+                      - link "数字小店 数字小店":
+                        - /url: https://air.1688.com/kapp/Dior-site/dior-digital-shop-site/index?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcxt_szxd&isIframe=&fromCode=MTAwMTU0&__removesafearea__=1&__existtitle__=1
+                        - generic:
+                          - text: 数字小店
+                          - generic: 数字小店
+                  - generic:
+                    - link "源头旗舰 源头旗舰":
+                      - /url: https://shili.1688.com/page/60e53e91.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dslsj
+                      - generic:
+                        - text: 源头旗舰
+                        - generic: 源头旗舰
+                    - generic:
+                      - link "新商入驻 新商入驻":
+                        - /url: https://air.1688.com/app/tp-modules/joint-order-process/shili-enroll.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dslsj_xsrz
+                        - generic:
+                          - text: 新商入驻
+                          - generic: 新商入驻
+                      - link "我要续约 我要续约":
+                        - /url: https://air.1688.com/app/tp-modules/joint-order-process/shili-enroll.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dslsj_wyxy
+                        - generic:
+                          - text: 我要续约
+                          - generic: 我要续约
+                      - link "商家权益 商家权益":
+                        - /url: https://shili.1688.com/page/qyjsym.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dslsj_sjqy
+                        - generic:
+                          - text: 商家权益
+                          - generic: 商家权益
+                      - link "入驻标准 入驻标准":
+                        - /url: https://shili.1688.com/page/zhaoshangbiaozhun.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dslsj_rzbz
+                        - generic:
+                          - text: 入驻标准
+                          - generic: 入驻标准
+                      - link "成功案例 成功案例":
+                        - /url: https://shili.1688.com/zhaoshang/cgalPC.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dslsj_cgal
+                        - generic:
+                          - text: 成功案例
+                          - generic: 成功案例
+                      - link "商家中心 商家中心":
+                        - /url: https://peixun.1688.com/space/shili?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dslsj_xlzx
+                        - generic:
+                          - text: 商家中心
+                          - generic: 商家中心
+                  - generic:
+                    - link "超级工厂 超级工厂":
+                      - /url: https://chaojigongchang.1688.com/superfactory/official/index.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcjgc
+                      - generic:
+                        - text: 超级工厂
+                        - generic: 超级工厂
+                    - generic:
+                      - link "新商入驻 新商入驻":
+                        - /url: https://shili.1688.com/dpl/shili-enroll/index.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcjgc_xsrz&pmMode=local
+                        - generic:
+                          - text: 新商入驻
+                          - generic: 新商入驻
+                      - link "我要续约 我要续约":
+                        - /url: https://shili.1688.com/dpl/shili-enroll/index.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcjgc_wyxy&pmMode=local
+                        - generic:
+                          - text: 我要续约
+                          - generic: 我要续约
+                      - link "商家权益 商家权益":
+                        - /url: https://chaojigongchang.1688.com/superfactory/official/quanyi.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcjgc_sjqy&__pageId__=225747&cms_id=225747
+                        - generic:
+                          - text: 商家权益
+                          - generic: 商家权益
+                      - link "入驻标准 入驻标准":
+                        - /url: https://chaojigongchang.1688.com/superfactory/official/biaozhun.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcjgc_rzbz&&__pageId__=225749&cms_id=225749
+                        - generic:
+                          - text: 入驻标准
+                          - generic: 入驻标准
+                      - link "生意增长计划 生意增长计划":
+                        - /url: https://mindx.1688.com/default/default/jbp/index.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcjgc_csjh&wh_pha=true&wh_pid=4048102
+                        - generic:
+                          - text: 生意增长计划
+                          - generic: 生意增长计划
+                      - link "商家中心 商家中心":
+                        - /url: https://peixun.1688.com/cms/cjgcxy.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dcjgc_xlzx
+                        - generic:
+                          - text: 商家中心
+                          - generic: 商家中心
+                  - generic:
+                    - link "服务 服务":
+                      - /url: https://fuwu.1688.com/?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dfw&tracelog=yyfw_from_syma
+                      - generic:
+                        - text: 服务
+                        - generic: 服务
+                    - generic:
+                      - link "我要开店 我要开店":
+                        - /url: https://cxt.1688.com/tp_service.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dfw_0ykd&_source_=MTAwMzYx
+                        - generic:
+                          - text: 我要开店
+                          - generic: 我要开店
+                      - link "开店装修 开店装修":
+                        - /url: https://jz.1688.com/template/homepage/index.htm?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dfw_kdzx&tracelog=yyfw_from_jz
+                        - generic:
+                          - text: 开店装修
+                          - generic: 开店装修
+                      - link "AI查企 AI查企":
+                        - /url: https://air.1688.com/kapp/88cha-fe/88cha-site-pc/search?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dfw_aicq
+                        - generic:
+                          - text: AI查企
+                          - generic: AI查企
+                      - link "应用工具 应用工具":
+                        - /url: https://app.1688.com/?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dfw_yygj&tracelog=cn-oop-index-to-app
+                        - generic:
+                          - text: 应用工具
+                          - generic: 应用工具
+                      - link "运营服务 运营服务":
+                        - /url: https://yy.1688.com/?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dfw_yyfw&tracelog=yyfw_from_yingyun
+                        - generic:
+                          - text: 运营服务
+                          - generic: 运营服务
+                      - link "综合服务 综合服务":
+                        - /url: https://fuwu.1688.com/general-service.html?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dfw_zhfw&tracelog=yyfw_from_zonghe
+                        - generic:
+                          - text: 综合服务
+                          - generic: 综合服务
+                      - link "帮助中心 帮助中心":
+                        - /url: https://help.1688.com/page/home?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dfw_bzzx&spm=a2633h.13192815.0.0.4f977140wT8iqv&pageId=7&language=zh
+                        - generic:
+                          - text: 帮助中心
+                          - generic: 帮助中心
+                      - link "1688百科 1688百科":
+                        - /url: https://wiki.1688.com/?spm=a2615.2177701.topmenu.dsellercenterentry_popup_dfw_wiki
+                        - generic:
+                          - text: 1688百科
+                          - generic: 1688百科
+      - generic [ref=e87]:
+        - generic [ref=e89] [cursor=pointer]:
+          - text: 登录
+          - generic [ref=e90]: 登录
+        - generic [ref=e93] [cursor=pointer]:
+          - generic [ref=e94]:
+            - text: 登录之后可以
+            - generic [ref=e95]: 登录之后可以
+          - generic [ref=e96]:
+            - generic [ref=e97]: 
+            - generic [ref=e98]:
+              - text: 搜索推荐更精准
+              - generic [ref=e99]: 搜索推荐更精准
+          - generic [ref=e100]:
+            - generic [ref=e101]: 
+            - generic [ref=e102]:
+              - text: 履约信息更及时
+              - generic [ref=e103]: 履约信息更及时
+          - generic [ref=e104]:
+            - generic [ref=e105]: 
+            - generic [ref=e106]:
+              - text: 商品详情更清晰
+              - generic [ref=e107]: 商品详情更清晰
+          - generic [ref=e109]:
+            - text: 立即登录
+            - generic [ref=e110]: 立即登录
+    - generic [ref=e111]:
+      - link "1688" [ref=e113] [cursor=pointer]:
+        - /url: https://www.1688.com?spm=a2615.2177701.leftmenu_EXPEND.logo
+        - img "1688" [ref=e114]
+      - list [ref=e115]:
+        - listitem [ref=e117]:
+          - list [ref=e118]:
+            - link " 首页 首页" [ref=e119] [cursor=pointer]:
+              - /url: https://www.1688.com?spm=a2615.2177701.leftmenu_EXPEND.dhome
+              - generic [ref=e120]: 
+              - generic [ref=e122]:
+                - text: 首页
+                - generic [ref=e123]: 首页
+        - listitem [ref=e125]:
+          - list [ref=e126]:
+            - link " 订单管理 订单管理 " [ref=e127] [cursor=pointer]:
+              - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.leftmenu_EXPEND.dorder&scene_type=&source=
+              - generic [ref=e128]: 
+              - generic [ref=e130]:
+                - text: 订单管理
+                - generic [ref=e131]: 订单管理
+              - generic [ref=e132]: 
+            - generic [ref=e134] [cursor=pointer]: 登录查看
+            - link "全部订单 全部订单" [ref=e136] [cursor=pointer]:
+              - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.leftmenu_EXPEND.ddefault0quanbudingdan0of0order&scene_type=&source=
+              - generic [ref=e137]:
+                - text: 全部订单
+                - generic [ref=e138]: 全部订单
+            - link "待付款 待付款" [ref=e140] [cursor=pointer]:
+              - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.leftmenu_EXPEND.ddefault0daifukuan0of0order&&tradeStatus=waitbuyerpay
+              - generic [ref=e141]:
+                - text: 待付款
+                - generic [ref=e142]: 待付款
+            - link "待发货 待发货" [ref=e144] [cursor=pointer]:
+              - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.leftmenu_EXPEND.ddefault0daifahuo0of0order&scene_type=&source=&trade_status=waitsellersend#waitsellersend
+              - generic [ref=e145]:
+                - text: 待发货
+                - generic [ref=e146]: 待发货
+            - link "待收货 待收货" [ref=e148] [cursor=pointer]:
+              - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.leftmenu_EXPEND.ddefault0daishouhuo0of0order&tradeStatus=waitbuyerreceive
+              - generic [ref=e149]:
+                - text: 待收货
+                - generic [ref=e150]: 待收货
+        - listitem [ref=e152]:
+          - list [ref=e153]:
+            - link " 商品采购 商品采购 " [ref=e154] [cursor=pointer]:
+              - /url: https://cart.1688.com/cart.htm?spm=a2615.2177701.leftmenu_EXPEND.dshangpin
+              - generic [ref=e155]: 
+              - generic [ref=e157]:
+                - text: 商品采购
+                - generic [ref=e158]: 商品采购
+              - generic [ref=e159]: 
+            - link "采购车 采购车" [ref=e161] [cursor=pointer]:
+              - /url: https://cart.1688.com/cart.htm?spm=a2615.2177701.leftmenu_EXPEND.ddefault0caigouche0of0shangpin
+              - generic [ref=e162]:
+                - text: 采购车
+                - generic [ref=e163]: 采购车
+            - link "收藏的商品 收藏的商品" [ref=e165] [cursor=pointer]:
+              - /url: https://purchase.1688.com/favorites/favorite_offer.htm?spm=a2615.2177701.leftmenu_EXPEND.ddefault0shoucang0of0shangpin&spm=a262uh.11750465.0.0.1d1e2ef65wHHv1
+              - generic [ref=e166]:
+                - text: 收藏的商品
+                - generic [ref=e167]: 收藏的商品
+            - link "浏览足迹 浏览足迹" [ref=e169] [cursor=pointer]:
+              - /url: https://purchase.1688.com/favorites/footprint.htm?spm=a2615.2177701.leftmenu_EXPEND.ddefault0liulanzuji0of0shangpin
+              - generic [ref=e170]:
+                - text: 浏览足迹
+                - generic [ref=e171]: 浏览足迹
+        - listitem [ref=e173]:
+          - list [ref=e174]:
+            - link " 供应商管理 供应商管理 " [ref=e175] [cursor=pointer]:
+              - /url: https://air.1688.com/kapp/1688-pc/favorites/shop?spm=a2615.2177701.leftmenu_EXPEND.dgoongyingshang&tracelog=alibar_2_favorite_shop&version=new
+              - generic [ref=e176]: 
+              - generic [ref=e178]:
+                - text: 供应商管理
+                - generic [ref=e179]: 供应商管理
+              - generic [ref=e180]: 
+            - link "买过的店铺 买过的店铺" [ref=e182] [cursor=pointer]:
+              - /url: https://air.1688.com/kapp/1688-pc/favorites/shop?spm=a2615.2177701.leftmenu_EXPEND.ddefault0maiguode0of0goongyingshang&tab=trade&version=new
+              - generic [ref=e183]:
+                - text: 买过的店铺
+                - generic [ref=e184]: 买过的店铺
+            - link "关注的店铺 关注的店铺" [ref=e186] [cursor=pointer]:
+              - /url: https://air.1688.com/kapp/1688-pc/favorites/shop?spm=a2615.2177701.leftmenu_EXPEND.ddefault0shoucangde0of0goongyingshang&tab=attention&version=new
+              - generic [ref=e187]:
+                - text: 关注的店铺
+                - generic [ref=e188]: 关注的店铺
+            - link "最近上新 最近上新" [ref=e190] [cursor=pointer]:
+              - /url: https://air.1688.com/kapp/1688-pc/new-close-products/?spm=a2615.2177701.leftmenu_EXPEND.ddefault0zuijinshangxin0of0goongyingshang
+              - generic [ref=e191]:
+                - text: 最近上新
+                - generic [ref=e192]: 最近上新
+        - listitem [ref=e194]:
+          - list [ref=e195]:
+            - link "𑱬 跨境服务 跨境服务 " [ref=e196] [cursor=pointer]:
+              - /url: https://global.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dkuajing
+              - generic [ref=e197]: 𑱬
+              - generic [ref=e199]:
+                - text: 跨境服务
+                - generic [ref=e200]: 跨境服务
+              - generic [ref=e201]: 
+            - link "跨境物流 跨境物流" [ref=e203] [cursor=pointer]:
+              - /url: https://mindx.1688.com/default/default/D5xGWKfRm5/index.html?spm=a2615.2177701.leftmenu_EXPEND.ddefault0kuajingwuliu0of0kuajing&wh_pha=true&wh_pid=3927550
+              - generic [ref=e204]:
+                - text: 跨境物流
+                - generic [ref=e205]: 跨境物流
+            - link "跨境铺货 跨境铺货" [ref=e207] [cursor=pointer]:
+              - /url: https://fastx.1688.com/app/1688-global/global-distribute-app/auth?spm=a2615.2177701.leftmenu_EXPEND.ddefault0kuajingpuhuo0of0kuajing&offerId=896192389922
+              - generic [ref=e208]:
+                - text: 跨境铺货
+                - generic [ref=e209]: 跨境铺货
+            - link "权益中心 权益中心" [ref=e211] [cursor=pointer]:
+              - /url: https://air.1688.com/app/1688-global/main-site-channel/cross-border-benefits.html?spm=a2615.2177701.leftmenu_EXPEND.ddefault0quanyizhongxin0of0kuajing
+              - generic [ref=e212]:
+                - text: 权益中心
+                - generic [ref=e213]: 权益中心
+        - listitem [ref=e215]:
+          - list [ref=e216]:
+            - link " 分销管理 分销管理 " [ref=e217] [cursor=pointer]:
+              - /url: https://air.1688.com/app/channel-fe/distribution-work/ai-assistant.html#/home?spm=a2615.2177701.leftmenu_EXPEND.dfenxiao
+              - generic [ref=e218]: 
+              - generic [ref=e220]:
+                - text: 分销管理
+                - generic [ref=e221]: 分销管理
+              - generic [ref=e222]: 
+            - link "铺货单 铺货单" [ref=e224] [cursor=pointer]:
+              - /url: https://mindx.1688.com/fx/wydf/ZmzyGCchAw4iXQ2pKay8/index.html?spm=a2615.2177701.leftmenu_EXPEND.ddefault0puhuodan0of0fenxiao&wh_pha=true&wh_pid=2103566&__pageId__=2103566
+              - generic [ref=e225]:
+                - text: 铺货单
+                - generic [ref=e226]: 铺货单
+            - link "分销AI工作台 分销AI工作台" [ref=e228] [cursor=pointer]:
+              - /url: https://air.1688.com/app/channel-fe/distribution-work/ai-assistant.html#/home?spm=a2615.2177701.leftmenu_EXPEND.ddefault0puhuogongju0of0fenxiao
+              - generic [ref=e229]:
+                - text: 分销AI工作台
+                - generic [ref=e230]: 分销AI工作台
+        - listitem [ref=e232]:
+          - list [ref=e233]:
+            - link " 我的阿里 我的阿里 " [ref=e234] [cursor=pointer]:
+              - /url: https://work.1688.com/home/buyer.htm?spm=a2615.2177701.leftmenu_EXPEND.dmaijiazhongxin
+              - generic [ref=e235]: 
+              - generic [ref=e237]:
+                - text: 我的阿里
+                - generic [ref=e238]: 我的阿里
+              - generic [ref=e239]: 
+      - generic [ref=e240] [cursor=pointer]:
+        - text: 网站无障碍
+        - generic [ref=e241]: 网站无障碍
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - text: 鼠标放面板上出现收起按钮，点击后可折叠菜单。
+                - generic: 鼠标放面板上出现收起按钮，点击后可折叠菜单。
+              - generic:
+                - text: 知道了
+                - generic: 知道了
+      - list:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 已买到的货品
+                          - generic: 已买到的货品
+                      - generic:
+                        - link "全部订单 全部订单":
+                          - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.leftmenu_EXPEND.dquanbudingdan0of0order&scene_type=&source=
+                          - generic:
+                            - text: 全部订单
+                            - generic: 全部订单
+                      - generic:
+                        - link "待付款 待付款":
+                          - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.leftmenu_EXPEND.ddaifukuan0of0order&&tradeStatus=waitbuyerpay
+                          - generic:
+                            - text: 待付款
+                            - generic: 待付款
+                      - generic:
+                        - link "待发货 待发货":
+                          - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.leftmenu_EXPEND.ddaifahuo0of0order&scene_type=&source=&trade_status=waitsellersend#waitsellersend
+                          - generic:
+                            - text: 待发货
+                            - generic: 待发货
+                      - generic:
+                        - link "待收货 待收货":
+                          - /url: https://trade.1688.com/order/buyer_order_list.htm?spm=a2615.2177701.leftmenu_EXPEND.ddaishouhuo0of0order&tradeStatus=waitbuyerreceive
+                          - generic:
+                            - text: 待收货
+                            - generic: 待收货
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 订单管理
+                          - generic: 订单管理
+                      - generic:
+                        - link "退款管理 退款管理":
+                          - /url: https://work.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dtuihuotuikuan0of0order&spm=a360q.8274423.workmenu.dbuyerref.4fe14c9amJpssU&_path_=buyer2017Base/2017buyerbase_trade/buyerRefundList
+                          - generic:
+                            - text: 退款管理
+                            - generic: 退款管理
+                      - generic:
+                        - link "投诉管理 投诉管理":
+                          - /url: https://work.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dtousuguanli0of0order&&_path_=buyer2017Base/2017buyerbase_trade/ComplaintManagementToPurchase
+                          - generic:
+                            - text: 投诉管理
+                            - generic: 投诉管理
+                      - generic:
+                        - link "理赔管理 理赔管理":
+                          - /url: https://work.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dlipei0of0order&_path_=buyer2017Base/2017buyerbase_trade/compensationBuyerList
+                          - generic:
+                            - text: 理赔管理
+                            - generic: 理赔管理
+                      - generic:
+                        - link "包裹管理 包裹管理":
+                          - /url: https://air.1688.com/app/ctf-m-page/official-logistics/my-parcel-pc.html?spm=a2615.2177701.leftmenu_EXPEND.dbaoguo0of0order&fromType=work
+                          - generic:
+                            - text: 包裹管理
+                            - generic: 包裹管理
+                      - generic:
+                        - link "收货地址管理 收货地址管理":
+                          - /url: https://work.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dshouhuodizhi0of0order&_path_=buyer2017Base/2017buyerbase_trade/receiveAddresses
+                          - generic:
+                            - text: 收货地址管理
+                            - generic: 收货地址管理
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 快速补货
+                          - generic: 快速补货
+                      - generic:
+                        - link "批量下单 批量下单":
+                          - /url: https://cart.1688.com/basket/batch.htm?spm=a2615.2177701.leftmenu_EXPEND.dpiliangxiadan0of0order
+                          - generic:
+                            - text: 批量下单
+                            - generic: 批量下单
+                      - generic:
+                        - link "再次购买 再次购买":
+                          - /url: https://cart.1688.com/basket/buy_again.htm?spm=a2615.2177701.leftmenu_EXPEND.dzaicigoumai0of0order
+                          - generic:
+                            - text: 再次购买
+                            - generic: 再次购买
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 金融&交易
+                          - generic: 金融&交易
+                      - generic:
+                        - link "先采后付 先采后付":
+                          - /url: https://rongzi.1688.com/n/creditbuy/buyer/bill.htm?spm=a2615.2177701.leftmenu_EXPEND.dxiancaihoufu0of0order&tracelog=pcgzt
+                          - generic:
+                            - text: 先采后付
+                            - generic: 先采后付
+                      - generic:
+                        - link "88生意通 88生意通":
+                          - /url: https://syt.1688.com/page/SYT/buyer?spm=a2615.2177701.leftmenu_EXPEND.dbuyer_syt0of0order&__existtitle__=1&__removesafearea__=1&__immersive__=1&tracelog=buyermain
+                          - generic:
+                            - text: 88生意通
+                            - generic: 88生意通
+                      - generic:
+                        - link "AI财税 AI财税":
+                          - /url: https://jinrong.1688.com/page/CAISHUI/buyer-home?spm=a2615.2177701.leftmenu_EXPEND.daicaishui0of0order
+                          - generic:
+                            - text: AI财税
+                            - generic: AI财税
+                      - generic:
+                        - link "免密支付管理 免密支付管理":
+                          - /url: https://work.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dmianmizhifu0of0order&_path_=buyer2017Base/2017buyerbase_trade/withhold-manage
+                          - generic:
+                            - text: 免密支付管理
+                            - generic: 免密支付管理
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 常用
+                          - generic: 常用
+                      - generic:
+                        - link "采购车 采购车":
+                          - /url: https://cart.1688.com/cart.htm?spm=a2615.2177701.leftmenu_EXPEND.dcaigouche0of0shangpin
+                          - generic:
+                            - text: 采购车
+                            - generic: 采购车
+                      - generic:
+                        - link "收藏的商品 收藏的商品":
+                          - /url: https://purchase.1688.com/favorites/favorite_offer.htm?spm=a2615.2177701.leftmenu_EXPEND.dshoucang0of0shangpin&spm=a262uh.11750465.0.0.1d1e2ef65wHHv1
+                          - generic:
+                            - text: 收藏的商品
+                            - generic: 收藏的商品
+                      - generic:
+                        - link "浏览足迹 浏览足迹":
+                          - /url: https://purchase.1688.com/favorites/footprint.htm?spm=a2615.2177701.leftmenu_EXPEND.dliulanzuji0of0shangpin
+                          - generic:
+                            - text: 浏览足迹
+                            - generic: 浏览足迹
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 优惠
+                          - generic: 优惠
+                      - generic:
+                        - link "我的优惠券 我的优惠券":
+                          - /url: https://work.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dyouhuiquan0of0shangpin&_path_=buyer2017Base/2017buyerbase_trade/buyerCoupon
+                          - generic:
+                            - text: 我的优惠券
+                            - generic: 我的优惠券
+                      - generic:
+                        - link "我的红包 我的红包":
+                          - /url: https://work.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dhongbao0of0shangpin&_path_=buyer2017Base/2017buyerbase_trade/buyer_myhongbao
+                          - generic:
+                            - text: 我的红包
+                            - generic: 我的红包
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 寻源
+                          - generic: 寻源
+                      - generic:
+                        - link "我的寻源 我的寻源":
+                          - /url: https://work.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dwodexunyuan0of0shangpin&_path_=buyer2017Base/2017sellerbase_xunjia/xunjiaIndex
+                          - generic:
+                            - text: 我的寻源
+                            - generic: 我的寻源
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 常用
+                          - generic: 常用
+                      - generic:
+                        - link "买过的店铺 买过的店铺":
+                          - /url: https://air.1688.com/kapp/1688-pc/favorites/shop?spm=a2615.2177701.leftmenu_EXPEND.dmaiguode0of0goongyingshang&tab=trade&version=new
+                          - generic:
+                            - text: 买过的店铺
+                            - generic: 买过的店铺
+                      - generic:
+                        - link "关注的店铺 关注的店铺":
+                          - /url: https://air.1688.com/kapp/1688-pc/favorites/shop?spm=a2615.2177701.leftmenu_EXPEND.dshoucangde0of0goongyingshang&tab=attention&version=new
+                          - generic:
+                            - text: 关注的店铺
+                            - generic: 关注的店铺
+                      - generic:
+                        - link "最近上新 最近上新":
+                          - /url: https://air.1688.com/kapp/1688-pc/new-close-products/?spm=a2615.2177701.leftmenu_EXPEND.dzuijinshangxin0of0goongyingshang
+                          - generic:
+                            - text: 最近上新
+                            - generic: 最近上新
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 跨境物流
+                          - generic: 跨境物流
+                      - generic:
+                        - link "跨境物流 跨境物流":
+                          - /url: https://mindx.1688.com/default/default/D5xGWKfRm5/index.html?spm=a2615.2177701.leftmenu_EXPEND.dkuajingwuliu0of0kuajing&wh_pha=true&wh_pid=3927550
+                          - generic:
+                            - text: 跨境物流
+                            - generic: 跨境物流
+                      - generic:
+                        - link "包裹管理 包裹管理":
+                          - /url: https://air.1688.com/app/1688-global/flow-warehouse/overseas-transport.html?spm=a2615.2177701.leftmenu_EXPEND.dbaoguoguanli0of0kuajing
+                          - generic:
+                            - text: 包裹管理
+                            - generic: 包裹管理
+                      - generic:
+                        - link "使用教程 使用教程":
+                          - /url: https://mindx.1688.com/default/default/3an2tJEMdj/index.html?spm=a2615.2177701.leftmenu_EXPEND.dshiyongjiaocheng0of0kuajing&wh_pha=true&wh_pid=3524331
+                          - generic:
+                            - text: 使用教程
+                            - generic: 使用教程
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 跨境支付
+                          - generic: 跨境支付
+                      - generic:
+                        - link "国际信用卡 国际信用卡":
+                          - /url: https://mindx.1688.com/rcyy/xfxrcym/dehmztvsb/index.html?spm=a2615.2177701.leftmenu_EXPEND.dguojixinyongka0of0kuajing&wh_pha=true&wh_pid=3548801&__pageId__=3548801&__existtitle__=1
+                          - generic:
+                            - text: 国际信用卡
+                            - generic: 国际信用卡
+                      - generic:
+                        - link "跨境宝 跨境宝":
+                          - /url: https://www.worldfirst.com.cn/static/product/1688/?spm=a2615.2177701.leftmenu_EXPEND.dkuajingbao0of0kuajing
+                          - generic:
+                            - text: 跨境宝
+                            - generic: 跨境宝
+                      - generic:
+                        - link "跨境直采 跨境直采":
+                          - /url: https://rongzi.1688.com/v2/buyer/kjpay.htm?spm=a2615.2177701.leftmenu_EXPEND.dkuajingzhicai0of0kuajing
+                          - generic:
+                            - text: 跨境直采
+                            - generic: 跨境直采
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 跨境分销
+                          - generic: 跨境分销
+                      - generic:
+                        - link "跨境铺货 跨境铺货":
+                          - /url: https://fastx.1688.com/app/1688-global/global-distribute-app/auth?spm=a2615.2177701.leftmenu_EXPEND.dkuajingpuhuo0of0kuajing&offerId=896192389922
+                          - generic:
+                            - text: 跨境铺货
+                            - generic: 跨境铺货
+                      - generic:
+                        - link "跨境工具 跨境工具":
+                          - /url: https://ufuwu.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dkuajinggongju0of0kuajing&role=crossBorder
+                          - generic:
+                            - text: 跨境工具
+                            - generic: 跨境工具
+                      - generic:
+                        - link "权益中心 权益中心":
+                          - /url: https://air.1688.com/app/1688-global/main-site-channel/cross-border-benefits.html?spm=a2615.2177701.leftmenu_EXPEND.dquanyizhongxin0of0kuajing
+                          - generic:
+                            - text: 权益中心
+                            - generic: 权益中心
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 常用
+                          - generic: 常用
+                      - generic:
+                        - link "分销选品中心 分销选品中心":
+                          - /url: https://air.1688.com/app/channel-fe/search/index.html#/result?spm=a2615.2177701.leftmenu_EXPEND.dfenxiaoxuanpin0of0fenxiao
+                          - generic:
+                            - text: 分销选品中心
+                            - generic: 分销选品中心
+                      - generic:
+                        - link "铺货单 铺货单":
+                          - /url: https://mindx.1688.com/fx/wydf/ZmzyGCchAw4iXQ2pKay8/index.html?spm=a2615.2177701.leftmenu_EXPEND.dpuhuodan0of0fenxiao&wh_pha=true&wh_pid=2103566&__pageId__=2103566
+                          - generic:
+                            - text: 铺货单
+                            - generic: 铺货单
+                      - generic:
+                        - link "官方仓退货 官方仓退货":
+                          - /url: https://air.1688.com/app/channel-fe/distribution-work/sales_return_warehouse.html#/home?spm=a2615.2177701.leftmenu_EXPEND.dofficialreturn0of0fenxiao&tracelog=SHOUYEZUOCEDAOHANG
+                          - generic:
+                            - text: 官方仓退货
+                            - generic: 官方仓退货
+                      - generic:
+                        - link "分销AI工作台 分销AI工作台":
+                          - /url: https://air.1688.com/app/channel-fe/distribution-work/ai-assistant.html#/home?spm=a2615.2177701.leftmenu_EXPEND.dpuhuogongju0of0fenxiao
+                          - generic:
+                            - text: 分销AI工作台
+                            - generic: 分销AI工作台
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 我的阿里
+                          - generic: 我的阿里
+                      - generic:
+                        - link "我的阿里 我的阿里":
+                          - /url: https://work.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dwodeali0of0maijiazhongxin
+                          - generic:
+                            - text: 我的阿里
+                            - generic: 我的阿里
+                      - generic:
+                        - link "1688百科 1688百科":
+                          - /url: https://wiki.1688.com/?spm=a2615.2177701.leftmenu_EXPEND.dwiki0of0maijiazhongxin
+                          - generic:
+                            - text: 1688百科
+                            - generic: 1688百科
+                  - generic:
+                    - list:
+                      - listitem:
+                        - generic:
+                          - text: 学习中心
+                          - generic: 学习中心
+                      - generic:
+                        - link "学习中心 学习中心":
+                          - /url: https://peixun.1688.com/buyer?spm=a2615.2177701.leftmenu_EXPEND.dxuexizhongxin0of0maijiazhongxin
+                          - generic:
+                            - text: 学习中心
+                            - generic: 学习中心
+                      - generic:
+                        - link "平台规则 平台规则":
+                          - /url: https://rulechannel.1688.com/#/?spm=a2615.2177701.leftmenu_EXPEND.dpingtaiguize0of0maijiazhongxin
+                          - generic:
+                            - text: 平台规则
+                            - generic: 平台规则
+                      - generic:
+                        - link "规则意见征集 规则意见征集":
+                          - /url: https://rulechannel.1688.com/#/ruleHOR?spm=a2615.2177701.leftmenu_EXPEND.dyijianzhengji0of0maijiazhongxin
+                          - generic:
+                            - text: 规则意见征集
+                            - generic: 规则意见征集
+  - generic [ref=e244]:
+    - generic [ref=e247]:
+      - generic [ref=e251]:
+        - generic [ref=e252]:
+          - generic [ref=e253]:
+            - img [ref=e254]
+            - generic [ref=e256] [cursor=pointer]:
+              - generic [ref=e257]:
+                - generic "深圳市东兴威电机有限公司" [ref=e258]
+                - img [ref=e259]
+              - generic [ref=e260]:
+                - link [ref=e261]:
+                  - /url: https://show.1688.com/shop/common/shilishangjia.html?__pageId__=104765&cms_id=104765
+                  - img [ref=e262]
+                - generic [ref=e263]:
+                  - paragraph [ref=e264]: 综合服务
+                  - img [ref=e266]
+                  - img [ref=e269]
+              - generic [ref=e270]:
+                - generic [ref=e271]: 评价
+                - generic [ref=e272]: 物流非常及时 14
+                - generic [ref=e273]: 质量很不错 8
+                - generic [ref=e274]: 性价比超高 7
+                - generic [ref=e275]: 价格不贵 5
+          - generic [ref=e276]:
+            - generic [ref=e279] [cursor=pointer]:
+              - img [ref=e280]
+              - text: 关注
+            - generic [ref=e282] [cursor=pointer]:
+              - generic [ref=e285]:
+                - generic [ref=e286]: TOP1
+                - text: 销量
+              - generic [ref=e289]:
+                - generic [ref=e290]: TOP2
+                - text: 销量
+        - generic [ref=e291]:
+          - generic [ref=e292]:
+            - img [ref=e293]
+            - generic [ref=e294]: 登录查看更多店铺信息～
+          - img [ref=e296] [cursor=pointer]
+          - img [ref=e298] [cursor=pointer]
+      - list [ref=e304]:
+        - listitem [ref=e305] [cursor=pointer]:
+          - generic [ref=e306]: 店铺推荐
+        - listitem [ref=e307] [cursor=pointer]:
+          - generic [ref=e308]:
+            - text: 全部商品
+            - img [ref=e309]
+        - listitem [ref=e310] [cursor=pointer]:
+          - generic [ref=e311]: 店铺动态
+        - listitem [ref=e312] [cursor=pointer]:
+          - generic [ref=e313]: 加工专区
+        - listitem [ref=e314] [cursor=pointer]:
+          - generic [ref=e315]: 工厂档案
+        - listitem [ref=e316] [cursor=pointer]:
+          - generic [ref=e317]: 联系方式
+        - listitem
+    - generic [ref=e318]:
+      - generic [ref=e326]:
+        - generic [ref=e338] [cursor=pointer]: 
+        - generic [ref=e339] [cursor=pointer]: 
+        - list [ref=e340]:
+          - listitem [ref=e341] [cursor=pointer]:
+            - button [ref=e342]
+          - listitem [ref=e343] [cursor=pointer]:
+            - button [ref=e344]
+          - listitem [ref=e345] [cursor=pointer]:
+            - button [ref=e346]
+      - img [ref=e355]
+      - img [ref=e364]
+      - img [ref=e373]
+      - generic [ref=e379]:
+        - generic [ref=e382]: 限时促销
+        - generic [ref=e384] [cursor=pointer]:
+          - generic [ref=e385]:
+            - img [ref=e386]
+            - generic [ref=e389]: 距离活动结束26897天 08:03:56
+          - generic [ref=e391]:
+            - generic [ref=e392]: ¥
+            - paragraph [ref=e393]: "130.0"
+      - generic [ref=e401]:
+        - link [ref=e402] [cursor=pointer]:
+          - /url: //dxwmotor2.1688.com/page/offerlist_158417650.htm
+        - link [ref=e403] [cursor=pointer]:
+          - /url: //dxwmotor2.1688.com/page/offerlist_60099225.htm
+        - link [ref=e404] [cursor=pointer]:
+          - /url: //dxwmotor2.1688.com/page/offerlist_96273803.htm
+        - link [ref=e405] [cursor=pointer]:
+          - /url: //dxwmotor2.1688.com/page/offerlist_60135367.htm
+        - link [ref=e406] [cursor=pointer]:
+          - /url: //dxwmotor2.1688.com/page/offerlist_59463955.htm
+        - link [ref=e407] [cursor=pointer]:
+          - /url: //dxwmotor2.1688.com/page/offerlist_4678766.htm
+        - img [ref=e408]
+      - img [ref=e417]
+      - generic [ref=e425]:
+        - link [ref=e426] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/632301753741.html
+        - link [ref=e427] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/542940067173.html
+        - link [ref=e428] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/544281892679.html
+        - link [ref=e429] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/636644787587.html
+        - link [ref=e430] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/644349018633.html
+        - link [ref=e431] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/644014660322.html
+        - img [ref=e432]
+      - generic [ref=e440]:
+        - link [ref=e441] [cursor=pointer]:
+          - /url: https://dxwmotor2.1688.com/page/offerlist_60099225.htm?spm=a2615.2177701.autotrace-categorySmall.11.7f615e84zc6E7S&sortType=wangpu_score
+        - link [ref=e442] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/542224678240.html
+        - link [ref=e443] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/662281566839.html
+        - link [ref=e444] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/662771670173.html
+        - link [ref=e445] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/542175244639.html
+        - img [ref=e446]
+      - generic [ref=e454]:
+        - link [ref=e455] [cursor=pointer]:
+          - /url: https://dxwmotor2.1688.com/page/offerlist_96273803.htm?spm=a2615.2177701.autotrace-categorySmall.6.7f615e84zc6E7S&sortType=wangpu_score
+        - link [ref=e456] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/662544404066.html
+        - link [ref=e457] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/662978101336.html
+        - link [ref=e458] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/588790395435.html
+        - link [ref=e459] [cursor=pointer]:
+          - /url: //detail.1688.com/offer/664641668610.html
+        - img [ref=e460]
+      - generic [ref=e468]:
+        - link [ref=e469] [cursor=pointer]:
+          - /url: https://detail.1688.com/offer/852154308212.html?spm=a26286.8251493.description.2.221425b2Zgwel3
+        - link [ref=e470] [cursor=pointer]:
+          - /url: https://detail.1688.com/offer/851344034415.html?spm=a26286.8251493.description.2.221425b2Zgwel3
+        - link [ref=e471] [cursor=pointer]:
+          - /url: https://detail.1688.com/offer/765892227757.html?spm=a26286.8251493.description.2.221425b2Zgwel3
+        - img [ref=e472]
+      - generic [ref=e477]:
+        - generic [ref=e478]:
+          - generic [ref=e479]: 供应产品--气泵水泵
+          - generic [ref=e480] [cursor=pointer]: 全部 >
+        - generic [ref=e481] [cursor=pointer]:
+          - img [ref=e484]
+          - paragraph [ref=e486]: DP370 微型家用电器增压泵 负压气泵充气泵吸黑头 颈部按摩 真空
+          - generic [ref=e488]:
+            - generic [ref=e489]: ¥
+            - generic [ref=e490]: "6"
+            - generic [ref=e491]: ".5"
+        - generic [ref=e492] [cursor=pointer]:
+          - img [ref=e495]
+          - paragraph [ref=e497]: 厂家生产吸奶器计量泵 充气泵 增氧泵 真空包装机直流微型真空泵
+          - generic [ref=e498]:
+            - generic [ref=e499]:
+              - generic [ref=e500]: ¥
+              - generic [ref=e501]: "6"
+              - generic [ref=e502]: ".5"
+            - generic "累计销量" [ref=e503]: 已售10+件
+        - generic [ref=e504] [cursor=pointer]:
+          - img [ref=e507]
+          - paragraph [ref=e509]: DP130美容仪器真空泵 电动吸黑头仪微型气泵 医疗器械吸水抽气泵
+          - generic [ref=e510]:
+            - generic [ref=e511]:
+              - generic [ref=e512]: ¥
+              - generic [ref=e513]: "8"
+            - generic "累计销量" [ref=e514]: 已售20+件
+        - generic [ref=e515] [cursor=pointer]:
+          - img [ref=e518]
+          - paragraph [ref=e520]: 310直流微型水泵 电动泡沫泵 自动感应洗手机泵 气液混合增压泵
+          - generic [ref=e522]:
+            - generic [ref=e523]: ¥
+            - generic [ref=e524]: "7"
+        - generic [ref=e525] [cursor=pointer]:
+          - img [ref=e528]
+          - paragraph [ref=e530]: RF310微型直流自吸增压泵 小型真空包装机抽气泵 微型负压真空泵
+          - generic [ref=e532]:
+            - generic [ref=e533]: ¥
+            - generic [ref=e534]: "6"
+            - generic [ref=e535]: ".5"
+      - generic [ref=e540]:
+        - generic [ref=e541]:
+          - generic [ref=e542]: 供应产品--减速电机
+          - generic [ref=e543] [cursor=pointer]: 全部 >
+        - generic [ref=e544] [cursor=pointer]:
+          - img [ref=e547]
+          - paragraph [ref=e549]:
+            - img [ref=e551]
+            - text: 500电动摇表器齿轮箱减速电机 旋转展示台手表盒马达 晃表器电机
+          - generic [ref=e552]:
+            - generic [ref=e553]:
+              - generic [ref=e554]: ¥
+              - generic [ref=e555]: "12"
+            - generic "累计销量" [ref=e556]: 已售3200+件
+        - generic [ref=e557] [cursor=pointer]:
+          - img [ref=e560]
+          - paragraph [ref=e562]: JS500自动喂食器减速电机 摇头电风扇马达 DC/AC低速减速电动机
+          - generic [ref=e563]:
+            - generic [ref=e564]:
+              - generic [ref=e565]: ¥
+              - generic [ref=e566]: "7"
+              - generic [ref=e567]: ".5"
+            - generic "累计销量" [ref=e568]: 已售200+件
+        - generic [ref=e569] [cursor=pointer]:
+          - img [ref=e572]
+          - paragraph [ref=e574]: 300减速电机 旋转工艺品电机 直流马达 齿轮箱电机 小型有刷电机
+          - generic [ref=e575]:
+            - generic [ref=e576]:
+              - generic [ref=e577]: ¥
+              - generic [ref=e578]: "6"
+              - generic [ref=e579]: ".5"
+            - generic "累计销量" [ref=e580]: 已售10+件
+        - generic [ref=e581] [cursor=pointer]:
+          - img [ref=e584]
+          - paragraph [ref=e586]: 厂家直销塑胶齿轮箱减速电机 微型马达 JS300玩具工艺礼品电机
+          - generic [ref=e587]:
+            - generic [ref=e588]:
+              - generic [ref=e589]: ¥
+              - generic [ref=e590]: "5"
+            - generic "累计销量" [ref=e591]: 已售10+件
+        - generic [ref=e592] [cursor=pointer]:
+          - img [ref=e595]
+          - paragraph [ref=e597]: JS-40减速马达 24V电风扇摇头电机 齿轮减速马达 佛珠机直流电机
+          - generic [ref=e599]:
+            - generic [ref=e600]: ¥
+            - generic [ref=e601]: "6"
+            - generic [ref=e602]: ".5"
+        - generic [ref=e603] [cursor=pointer]:
+          - img [ref=e606]
+          - paragraph [ref=e608]: 厂家直销自动售货机减速电机 感应式纸巾机马达 智能机器人齿轮箱
+          - generic [ref=e609]:
+            - generic [ref=e610]:
+              - generic [ref=e611]: ¥
+              - generic [ref=e612]: "12"
+            - generic "累计销量" [ref=e613]: 已售10+件
+        - generic [ref=e614] [cursor=pointer]:
+          - img [ref=e617]
+          - paragraph [ref=e619]: 300电机 微电机 齿轮箱马达 直流马达 减速箱电机 澄海玩具电机
+          - generic [ref=e621]:
+            - generic [ref=e622]: ¥
+            - generic [ref=e623]: "6"
+            - generic [ref=e624]: ".5"
+        - generic [ref=e625] [cursor=pointer]:
+          - img [ref=e628]
+          - paragraph [ref=e630]: 有刷直流电机马达 LED太阳灯水晶魔球灯减速电机 智能玩具小电机
+          - generic [ref=e632]:
+            - generic [ref=e633]: ¥
+            - generic [ref=e634]: "6"
+            - generic [ref=e635]: ".5"
+        - generic [ref=e636] [cursor=pointer]:
+          - img [ref=e639]
+          - paragraph [ref=e641]: 舞台激光灯电机 微型直流减速电机 小魔球电机 塑胶齿轮减速电机
+          - generic [ref=e643]:
+            - generic [ref=e644]: ¥
+            - generic [ref=e645]: "5"
+        - generic [ref=e646] [cursor=pointer]:
+          - img [ref=e649]
+          - paragraph [ref=e651]: 双孔满天星激光灯直流电机 三维动画灯减速马达 低噪音齿轮箱电机
+          - generic [ref=e653]:
+            - generic [ref=e654]: ¥
+            - generic [ref=e655]: "7"
+            - generic [ref=e656]: ".5"
+      - generic [ref=e661]:
+        - generic [ref=e662]:
+          - generic [ref=e663]: 供应产品--步进电机
+          - generic [ref=e664] [cursor=pointer]: 全部 >
+        - generic [ref=e665] [cursor=pointer]:
+          - img [ref=e668]
+          - paragraph [ref=e670]: 28BYJ48减速步进电机 新风系统净化器摆叶电机空调浴霸舞台灯电机
+          - generic [ref=e671]:
+            - generic [ref=e672]:
+              - generic [ref=e673]: ¥
+              - generic [ref=e674]: "9"
+            - generic "累计销量" [ref=e675]: 已售5000+件
+        - generic [ref=e676] [cursor=pointer]:
+          - img [ref=e679]
+          - paragraph [ref=e681]: 39/42/57BYG激光灯步进电机 KTV摇头灯步进马达 激光草坪灯电机
+          - generic [ref=e683]:
+            - generic [ref=e684]: ¥
+            - generic [ref=e685]: "45"
+        - generic [ref=e686] [cursor=pointer]:
+          - img [ref=e689]
+          - paragraph [ref=e691]: 35BYJ46步进电机 微波炉电机空调 大扭矩35BYJ电机 减速步进电机
+          - generic [ref=e693]:
+            - generic [ref=e694]: ¥
+            - generic [ref=e695]: "10"
+        - generic [ref=e696] [cursor=pointer]:
+          - img [ref=e699]
+          - paragraph [ref=e701]: DONGXINWEI MOTOR直流减速步进电动机 无刷电机 草坪灯步进电机
+          - generic [ref=e702]:
+            - generic [ref=e703]:
+              - generic [ref=e704]: ¥
+              - generic [ref=e705]: "7"
+            - generic "累计销量" [ref=e706]: 已售20+件
+        - generic [ref=e707] [cursor=pointer]:
+          - img [ref=e710]
+          - paragraph [ref=e712]: 批量供应24BYJ48 5V/12V摄像头云台专用微型齿轮减速步进电机
+          - generic [ref=e714]:
+            - generic [ref=e715]: ¥
+            - generic [ref=e716]: "7"
+            - generic [ref=e717]: ".5"
+    - generic [ref=e728]:
+      - paragraph [ref=e729]:
+        - text: 深圳市东兴威电机有限公司
+        - generic [ref=e730]: 地址：中国 广东深圳市宝安区石岩街道龙腾社区永和路3号
+        - generic [ref=e731]:
+          - text: 技术支持：
+          - link "旺铺管理入口" [ref=e732] [cursor=pointer]:
+            - /url: https://work.1688.com/app/myWinporter.htm
+          - text: "|"
+          - link "免责声明" [ref=e733] [cursor=pointer]:
+            - /url: https://mmm.1688.com/app/dutyFree.htm
+          - text: "|"
+          - link "客服中心" [ref=e734] [cursor=pointer]:
+            - /url: https://114.1688.com/kf/index.html?tracelog=zy_zhongwenshouye_kfzx
+      - paragraph [ref=e735]:
+        - link "阿里巴巴集团" [ref=e736] [cursor=pointer]:
+          - /url: https://www.alibabagroup.com/cn/global/home
+        - text: "|"
+        - link "阿里巴巴国际站" [ref=e737] [cursor=pointer]:
+          - /url: https://www.alibaba.com/
+        - text: "|"
+        - link "1688" [ref=e738] [cursor=pointer]:
+          - /url: https://www.1688.com/?tracelog=cnindex_sep_home_bottom
+        - text: "|"
+        - link "全球速卖通" [ref=e739] [cursor=pointer]:
+          - /url: https://mai.aliexpress.com
+        - text: "|"
+        - link "淘宝网" [ref=e740] [cursor=pointer]:
+          - /url: https://www.taobao.com/
+        - text: "|"
+        - link "天猫" [ref=e741] [cursor=pointer]:
+          - /url: https://www.tmall.com/
+        - text: "|"
+        - link "聚划算" [ref=e742] [cursor=pointer]:
+          - /url: https://ju.taobao.com/
+        - text: "|"
+        - link "一淘" [ref=e743] [cursor=pointer]:
+          - /url: https://www.etao.com/
+        - text: "|"
+        - link "阿里旅行·去阿" [ref=e744] [cursor=pointer]:
+          - /url: https://www.alitrip.com/
+        - text: "|"
+        - link "阿里妈妈" [ref=e745] [cursor=pointer]:
+          - /url: https://www.alimama.com/
+        - text: "|"
+        - link "酷盘" [ref=e746] [cursor=pointer]:
+          - /url: https://kanbox.com/?ref=1688
+        - text: "|"
+        - link "虾米" [ref=e747] [cursor=pointer]:
+          - /url: https://www.xiami.com/
+        - text: "|"
+        - link "阿里云计算" [ref=e748] [cursor=pointer]:
+          - /url: https://www.aliyun.com/
+        - text: "|"
+        - link "YunOS" [ref=e749] [cursor=pointer]:
+          - /url: https://www.yunos.com/
+        - text: "|"
+        - link "阿里通信" [ref=e750] [cursor=pointer]:
+          - /url: https://aliqin.tmall.com/
+        - text: "|"
+        - link "万网" [ref=e751] [cursor=pointer]:
+          - /url: https://wanwang.aliyun.com/
+        - text: "|"
+        - link "支付宝" [ref=e752] [cursor=pointer]:
+          - /url: https://www.alipay.com/
+        - text: "|"
+        - link "来往" [ref=e753] [cursor=pointer]:
+          - /url: https://www.laiwang.com/
+        - text: "|"
+        - link "11 Main" [ref=e754] [cursor=pointer]:
+          - /url: https://11main.com/
+        - text: "|"
+        - link "钉钉" [ref=e755] [cursor=pointer]:
+          - /url: https://www.dingtalk.com/?lwfrom=20150130161950940
+      - paragraph [ref=e756]:
+        - text: "@2010-2020 1688.com 版权所有"
+        - link "著作权与商标声明" [ref=e757] [cursor=pointer]:
+          - /url: https://rule.1688.com/policy/copyright.html
+        - text: "|"
+        - link "法律声明" [ref=e758] [cursor=pointer]:
+          - /url: https://rule.1688.com/policy/legal.html
+        - text: "|"
+        - link "服务条款" [ref=e759] [cursor=pointer]:
+          - /url: https://rule.1688.com/policy/terms.htm
+        - text: "|"
+        - link "隐私声明" [ref=e760] [cursor=pointer]:
+          - /url: https://rule.1688.com/policy/privacy.html
+        - text: "|"
+        - link "关于阿里巴巴" [ref=e761] [cursor=pointer]:
+          - /url: https://www.alibabagroup.com/cn/global/home
+        - text: "|"
+        - link "联系我们" [ref=e762] [cursor=pointer]:
+          - /url: https://114.1688.com/kf/contact.html?tracelog=kf_2012_budian_shouyeguide10
+        - text: "|"
+        - link "网站导航" [ref=e763] [cursor=pointer]:
+          - /url: https://114.1688.com/sitemap.html
